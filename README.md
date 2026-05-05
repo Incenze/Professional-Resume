@@ -5,7 +5,6 @@ This repository contains my professional resume and related career documents.
 ## 📄 Contents
 
 - **Resume PDF**: Current version of my professional resume
-- **Source Files**: Editable resume versions and templates
 
 ## 🛠️ Technical Focus
 
